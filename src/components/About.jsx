@@ -7,3 +7,8 @@ const About = () => {
 }
 
 export default About
+
+
+git add .
+git commit  -m "increase container width"
+git push -u origin main
